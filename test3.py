@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#HUGO LE GAYRARD
+
 import time, pandas
 from pyspark import SparkContext
 from pyspark import SparkConf
